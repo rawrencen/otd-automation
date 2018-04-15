@@ -1,6 +1,6 @@
 #TUI: python createXML.py C:/Users/lxn521/PycharmProjects/otdAutomation/
 #ARGS: python createXML.py C:/Users/lxn521/PycharmProjects/otdAutomation/ {a,b,A,B,AB} -otd dcsotdPOC -vs dev-ipm.sherwin.com -osn apinv-admin -osp e-corp-soa1-devint:8130 -rn apinv-admin -rf / -rt /console/
-
+#testing
 import xml.etree.ElementTree as ET
 import argparse
 import os
